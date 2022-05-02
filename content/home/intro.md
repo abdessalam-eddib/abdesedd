@@ -1,6 +1,6 @@
 ---
 widget: about.avatar
-headless: true
+headless: false
 weight: 10
 author: admin
 widget_id: ‎
