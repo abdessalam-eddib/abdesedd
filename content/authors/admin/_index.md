@@ -18,7 +18,7 @@ superuser: true
 status:
   icon: ☕️
 title: Abdessalam Ed-dib
-role: Engineering Student
+role: Engineering Student | Data Enthusiast
 email: abdessalam.ed-dib@polytechnique.org
 ---
 
