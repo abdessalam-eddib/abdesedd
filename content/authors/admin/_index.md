@@ -11,9 +11,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/abdessalam-eddib/
-organizations:
-  - name: École Polytechnique
-    url: https://www.polytechnique.edu/
+organizations: []
 superuser: true
 status:
   icon: ☕️
