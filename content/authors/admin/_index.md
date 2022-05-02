@@ -1,9 +1,4 @@
 ---
-title: Abdessalam Ed-dib
-role: Engineering Student
-superuser: true
-status:
-  icon: ☕️
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -19,6 +14,12 @@ social:
 organizations:
   - name: 腾讯
     url: ""
+superuser: true
+status:
+  icon: ☕️
+title: Abdessalam Ed-dib
+role: Engineering Student
+email: abdessalam.ed-dib@polytechnique.org
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
