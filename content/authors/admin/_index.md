@@ -5,15 +5,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://www.linkedin.com/abdessalam-ed-dib
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/abdessalam-eddib/
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: École Polytechnique
+    url: https://www.polytechnique.edu/
 superuser: true
 status:
   icon: ☕️
